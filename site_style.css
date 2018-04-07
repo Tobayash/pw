@@ -1,0 +1,43 @@
+
+body {
+  background-color:#C0C0C0;
+}
+
+h1 {
+  color: #006;
+}
+h2 {
+  color: #039;
+  border-bottom: 1px solid #039;
+  margin-top: 35px;
+  padding-top: 20px;
+}
+h3 {
+  color: #03f;
+  margin-top: 20px;
+  padding-top: 15px;
+}
+
+footer {
+  margin-top: 20px;
+  border-top: 1px solid #006;
+}
+
+.block1 {
+  background: white;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top:20px;
+  padding-bottom:40px;
+  font-size:100%;
+}
+
+.news {
+  font-family:'Bold';
+  color: #FFCC66;
+  font-size:260%;
+  padding-top:10px;
+}
